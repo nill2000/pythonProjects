@@ -1,0 +1,73 @@
+# Python Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# IDEs and Editors
+.idea/
+.vscode/
+*.swp
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Package distribution
+*.egg
+*.egg-info
+dist/
+build/
+eggs/
+parts/
+sdist/
+var/
+*.log
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Pytest
+.cache/
+
+# mypy
+.mypy_cache/
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# Coverage reports
+.coverage
+.coverage.*
+nosetests.xml
+test-*.xml
+*.cover
+
+# pylint
+.pylint.d/
+
+# Flask instance folder
+instance/
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+
+# celery beat schedule file
+celerybeat-schedule
+
+# dotenv
+.env
